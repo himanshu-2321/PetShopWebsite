@@ -1,5 +1,6 @@
 # PetShop Website
-
+## Project Interface
+![Image](https://github.com/user-attachments/assets/d32520b6-45cb-4310-a6f0-df26ca3cda7e)
 ## Overview
 The *PetShop Website* is a Java-based web application that allows users to browse and purchase pets and pet-related products. The project incorporates a seamless shopping experience with user authentication, product management, and order tracking.
 
