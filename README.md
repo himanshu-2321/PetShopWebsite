@@ -5,14 +5,6 @@ The *PetShop Website* is a Java-based web application that allows users to brows
 
 ---
 
-## Team Members
-- *Himanshu Kumar (Leader)*: Backend development and project coordination  
-- *Nikhil Verma*: Frontend design and user interface development  
-- *Nishant Kumar Gupta*: Database design and integration  
-- *Ansh*: Testing, debugging, and user authentication  
-
----
-
 ## Features
 - Browse a variety of pets and pet products  
 - User authentication and session management  
